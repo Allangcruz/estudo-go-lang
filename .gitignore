@@ -1,2 +1,6 @@
 bin/
+pkg/
 .idea/
+src/golang.org/
+src/github.com/*
+!src/github.com/allangcruz

@@ -52,6 +52,7 @@ Links de referência:
 + [*Tratamento de erros*]()
 + [*Array*]()
 + [*Slices*]()
++ [*Interfaces*]()
 
 #### Exercicios GO Lang:
 
