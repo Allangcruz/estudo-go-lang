@@ -25,6 +25,7 @@ Links de referência:
 + *fmt*
 + *os*
 + *strconv*
++ *encoding/json*
 
 #### Recursos da linguagem:
 
@@ -34,11 +35,14 @@ Links de referência:
 + [*funct*]()
 + [*struct*]()
 + [*if*]()
++ [*_*]()
 + [*for*]()
 + [*make*]()
 + [*map*]()
 + [*len*]()
 + [*delete*]()
++ [*Ponteiros*]()
++ [*Tratamento de erros*]()
 
 #### Exercicios GO Lang:
 
