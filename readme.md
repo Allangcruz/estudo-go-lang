@@ -6,8 +6,6 @@
 
 ### Como instalar
 
-#### Windows
-
 #### Linux
 
 - Apos realizar o dowload (https://golang.org/), seguir as instruções desse link https://www.admintome.com/blog/install-go-on-ubuntu-18-04/
@@ -20,6 +18,26 @@ Links de referência:
 - https://golang.org/doc/code.html
 
 #### O que é GOPATH?
+
+
+#### Bibliotecas utilizadas:
+
++ *fmt*
++ *os*
++ *strconv*
+
+#### Recursos da linguagem:
+
++ [*package*]()
++ [*import*]()
++ [*var*]()
++ [*funct*]()
++ [*struct*]()
++ [*if*]()
++ [*for*]()
++ [*map*]()
++ [*make*]()
++ [*len*]()
 
 #### Exercicios GO Lang:
 
