@@ -34,6 +34,6 @@ Links de referência:
 * [Conversor de medidas](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
 
 
-###### Contribuidor
+#### Contribuidor
 
-- Allan Gonçalves da Cruz
+- Allan Gonçalves da Cruz (*allangcruz@gmail.com*)
