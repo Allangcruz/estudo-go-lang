@@ -35,9 +35,10 @@ Links de referência:
 + [*struct*]()
 + [*if*]()
 + [*for*]()
-+ [*map*]()
 + [*make*]()
++ [*map*]()
 + [*len*]()
++ [*delete*]()
 
 #### Exercicios GO Lang:
 
