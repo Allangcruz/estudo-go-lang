@@ -27,6 +27,8 @@ Links de referência:
 + *os*
 + *strconv*
 + *encoding/json*
++ *encoding/csv*
++ *bufio*
 
 #### Recursos da linguagem:
 
