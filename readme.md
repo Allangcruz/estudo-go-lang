@@ -25,3 +25,15 @@ Links de referência:
 
 * [Hello world](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
 
+* [Calculadora](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
+
+* [Calcular MMC](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
+
+* [Notas de alunos](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
+
+* [Conversor de medidas](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
+
+
+###### Contribuidor
+
+- Allan Gonçalves da Cruz
