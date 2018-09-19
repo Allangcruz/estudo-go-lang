@@ -19,9 +19,9 @@ Links de referência:
 - http://desenvolvedor.ninja/go-language-instalacao/
 - https://golang.org/doc/code.html
 
-# O que é GOPATH?
+#### O que é GOPATH?
 
-#Exercicios GO Lang:
+#### Exercicios GO Lang:
 
 * [Hello world](https://github.com/Allangcruz/estudo-go-lang/tree/master/src/github.com/allangcruz/hello-world/)
 
