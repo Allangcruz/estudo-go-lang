@@ -31,8 +31,12 @@ func main() {
 		return
 	}
 
-	for index, linha := range conteudo {
-		fmt.Printf("Linha[%d] é: %s \n", index, linha)
+	for i, linha := range conteudo {
+		fmt.Printf("Linha[%d] é \n", i)
+
+		for j, item := range linha {
+			fmt.Printf("Item[%d]: %s \n", j, item)
+		}
 	}
 
 	arquivo.Close()

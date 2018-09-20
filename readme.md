@@ -27,7 +27,7 @@ Links de referência:
 + *os*
 + *strconv*
 + *encoding/json*
-+ *encoding/csv*
++ [*encoding/csv*](https://golang.org/pkg/encoding/csv/)
 + *bufio*
 
 #### Recursos da linguagem:
