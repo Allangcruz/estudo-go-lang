@@ -29,6 +29,9 @@ Links de referência:
 + *encoding/json*
 + [*encoding/csv*](https://golang.org/pkg/encoding/csv/)
 + *bufio*
++ *strings*
++ *time*
++ *sync*
 
 #### Recursos da linguagem:
 
